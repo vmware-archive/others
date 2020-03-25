@@ -9,4 +9,6 @@ Here is a collection of links to other Kubernetes tools that work well with k14s
 ### Misc
 
 - [Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+  - Minikube is very convenient to use for development since it comes with built-in Docker daemon
 - [Docker CLI binaries](https://docs.docker.com/install/linux/docker-ce/binaries/)
+  - Official location where to grab Docker CLI binaries; useful with using Minikube
